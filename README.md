@@ -1,0 +1,2 @@
+# Earthquack-App
+ Earthquake app
